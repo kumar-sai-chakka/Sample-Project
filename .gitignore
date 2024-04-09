@@ -1,0 +1,3 @@
+# it is a comment representation
+*.txt
+# the above command helps in remove tracking on all the text files
